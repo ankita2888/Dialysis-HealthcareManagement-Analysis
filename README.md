@@ -6,3 +6,5 @@ including electronic health records and administrative databases. Utilizing Exce
 The highlight of the project was designing dynamic visualizations and interactive dashboards in Excel, Tableau and Power BI, 
 enabling healthcare professionals to identify trends, patterns, and actionable insights. Collaborating with cross-functional teams to interpret analysis results and implement data-driven strategies
 improved patient care and operational efficiency in healthcare facilities.
+
+Sharing an insight of the interactive dashboards created in Excel, PowerBi and Tableau.
